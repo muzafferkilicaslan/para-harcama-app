@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "title":"Sakız",
+        "price":0.5,
+        "image":"https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/07120219/07120219-68be82.jpg"
+    },
+    {
+        "id":2,
+        "title":"Kola",
+        "price":5,
+        "image":"https://d2uiaykj5yb3c0.cloudfront.net/onur/img/p/5210b11d-2acd-45ca-95ba-cce5489addb8.jpg"
+    },
+    {
+        "id":3,
+        "title":"Ayakkabı",
+        "price":200,
+        "image":"https://imgfly.scarabresearch.com/w_300/https://st-vans.mncdn.com/mnresize/1000/1000/Content/media/ProductImg/original/637639359771886229.jpg"
+    },
+    {
+        "id":4,
+        "title":"Telefon",
+        "price":3000,
+        "image":"https://cdn.vatanbilgisayar.com/Upload/PRODUCT/apple/thumb/113144_large.jpg"
+
+    }
+]
